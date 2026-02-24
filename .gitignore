@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.kaggle/
+.env
+.venv/
+.vscode/
+outputs/
+data/
